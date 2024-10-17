@@ -7,6 +7,9 @@ module.exports = {
     "import/order": [
       "error",
       {
+        endOfLine: "crlf", // CRLF kullanmak için eklenen ayar
+      },
+      {
         groups: [
           "builtin",
           "external",
