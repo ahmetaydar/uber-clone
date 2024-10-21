@@ -3,7 +3,8 @@
       "nativewind",
       "neondatabase",
       "Swiper",
-      "tailwindcss"
+      "tailwindcss",
+      "zustand"
     ],
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
